@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreeThings", "HistoryOfWebDevelopment\ThreeThings.csproj", "{17AB9767-29BC-4E46-84B3-AC76F60ED82E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreeThings", "ThreeThings\ThreeThings.csproj", "{17AB9767-29BC-4E46-84B3-AC76F60ED82E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
